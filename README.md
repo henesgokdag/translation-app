@@ -1,0 +1,1 @@
+this is example of Observer desing pattern
